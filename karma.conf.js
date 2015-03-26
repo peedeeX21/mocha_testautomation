@@ -1,5 +1,4 @@
 // Karma configuration
-// Generated on Tue Sep 02 2014 23:03:20 GMT+0200 (CEST)
 
 module.exports = function(config) {
   config.set({
@@ -41,7 +40,7 @@ module.exports = function(config) {
 
 
     // web server port
-    port: 9876,
+    port: 9898,
 
 
     // enable / disable colors in the output (reporters and logs)
