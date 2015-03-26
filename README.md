@@ -6,4 +6,6 @@ Mocha tests are usinc chai.js & chai-as-promised.js as assertion language.
 
 install: `npm install`
 
+## Run tests:
+
 run tests: `npm test`
